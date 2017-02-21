@@ -17,6 +17,8 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
+--First create a Database Property by running the following command:  Create Database property  then copy and 
+--paste the code and click go in SQL
 -- Database: `property`
 --
 
